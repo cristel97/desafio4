@@ -1,0 +1,14 @@
+[
+  {
+    "title": "pepsi",
+    "price": "2.80",
+    "thumbnail": "155522-1200-auto.webp",
+    "id": 1
+  },
+  {
+    "title": "poster blonde",
+    "price": "300",
+    "thumbnail": "1.jpg",
+    "id": 2
+  }
+]
